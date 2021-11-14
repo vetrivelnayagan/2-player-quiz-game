@@ -1,0 +1,40 @@
+body
+{
+	background: lightblue;
+}
+
+	#player1 , #player2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 80%;
+		margin: 20px;
+	}
+
+
+#name1 , #name2
+{
+	display: inline-block;
+	margin-left: 20px;
+	width: 70%;
+	margin-top: 10px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
